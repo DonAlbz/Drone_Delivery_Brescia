@@ -146,4 +146,4 @@ anim = FuncAnimation(fig, update, frames=len(x),
                      init_func=init, interval=20, blit=True)
 
 plt.show()
-#prova github
+#modifica prova Github
